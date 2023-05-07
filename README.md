@@ -1,4 +1,4 @@
-## Olá! Eu Leonardo do Amaral 🖐️
+## Olá! sou Eu Leonardo do Amaral 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leudoamaral/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-amaral2023/)
