@@ -1,10 +1,10 @@
 ## Olá! eu sou Leonardo do Amaral 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leudoamaral/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-amaral2023/)
-[![facebook](https://github-stats-extended.vercel.app/api?username=leoamaral02&show_icons=true&theme=dracula&count_private=true)](https://www.facebook.com/leuu.amaral.9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-amaral2023/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leuu.amaral.9)
 
-[![leo GitHub stats](https://github-readme-stats.vercel.app/api?username=leoamaral02&show_icons=true&theme=dracula&count_private=true)
+[![leo GitHub stats](https://github-stats-extended.vercel.app/api?username=leoamaral02&show_icons=true&theme=dracula)](https://github.com/leoamaral02)   
 
 ## 🤖  Tecnologias que eu uso no meu dia
 
